@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Dataset
+data/
+
+# Model Weights
+*.pth
+*.pt
+
+# Generated Outputs
+*.png
+*.jpg
+*.jpeg
+reconstruction_*.png
+samples.png
+loss_curve.png
+latent_space.png
+
+# OS Specific
+.DS_Store
