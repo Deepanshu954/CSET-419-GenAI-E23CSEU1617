@@ -16,7 +16,6 @@ data/
 *.pt
 
 # Generated Outputs
-*.png
 *.jpg
 *.jpeg
 
