@@ -26,3 +26,10 @@ latent_space.png
 
 # OS Specific
 .DS_Store
+
+# User Requested Ignores
+instructions.txt
+requirements.txt
+~$nAI-Lab-Week3.docx
+~$nAl-Lab-Week3.docx
+
