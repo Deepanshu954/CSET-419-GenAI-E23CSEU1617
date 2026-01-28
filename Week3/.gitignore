@@ -19,10 +19,6 @@ data/
 *.png
 *.jpg
 *.jpeg
-reconstruction_*.png
-samples.png
-loss_curve.png
-latent_space.png
 
 # OS Specific
 .DS_Store
@@ -32,4 +28,5 @@ instructions.txt
 requirements.txt
 ~$nAI-Lab-Week3.docx
 ~$nAl-Lab-Week3.docx
+create_pdf.py
 
