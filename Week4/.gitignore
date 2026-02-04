@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store
+
+# Trained Models & Artifacts
+*.pth
+*.pkl
+create_pdf.py
+
+# Helper/Temp files
+mpsgraph*
